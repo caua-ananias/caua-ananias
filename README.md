@@ -1,5 +1,5 @@
 # ☕ About Me:
-🖥️ Computer Engineering student at UFGD<br>🍃Learning spring boot
+🖥️ Computer Engineering student at UFGD<br>🍃 Learning spring boot
 
 
 ## 🌐 Socials:
@@ -15,4 +15,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=caua-ananias&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
