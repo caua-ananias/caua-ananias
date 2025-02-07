@@ -1,5 +1,5 @@
 # ☕ About Me:
-🖥️ Computer Engineering student at UFGD<br>🍃 Learning spring boot
+🖥️ Software Engineering student at Unigran<br>🍃 Learning spring boot
 
 
 ## 🌐 Socials:
